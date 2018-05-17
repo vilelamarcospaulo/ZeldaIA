@@ -1,0 +1,11 @@
+C:\Users\marco\OneDrive\IA\Zelda\Zelda\bin\Release\Zelda.exe.config
+C:\Users\marco\OneDrive\IA\Zelda\Zelda\obj\Release\Interop.WMPLib.dll
+C:\Users\marco\OneDrive\IA\Zelda\Zelda\obj\Release\Zelda.csproj.ResolveComReference.cache
+C:\Users\marco\OneDrive\IA\Zelda\Zelda\bin\Release\Zelda.exe
+C:\Users\marco\OneDrive\IA\Zelda\Zelda\bin\Release\Zelda.pdb
+C:\Users\marco\OneDrive\IA\Zelda\Zelda\obj\Release\Zelda.csprojResolveAssemblyReference.cache
+C:\Users\marco\OneDrive\IA\Zelda\Zelda\obj\Release\Zelda.Properties.Resources.resources
+C:\Users\marco\OneDrive\IA\Zelda\Zelda\obj\Release\Zelda.GUI.resources
+C:\Users\marco\OneDrive\IA\Zelda\Zelda\obj\Release\Zelda.csproj.GenerateResource.Cache
+C:\Users\marco\OneDrive\IA\Zelda\Zelda\obj\Release\Zelda.exe
+C:\Users\marco\OneDrive\IA\Zelda\Zelda\obj\Release\Zelda.pdb

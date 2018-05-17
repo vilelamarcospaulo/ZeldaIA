@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Zelda.agent">
+    <Position X="6.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAABAAAAAAAAgACAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>definition\agent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zelda.actuator">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>definition\actuator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zelda.environment">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <AssociationLine Name="map1" Type="Zelda.ground">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-4.955" Y="-1.986" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAEEAAAAAAAIAAAAAAAAAAAAAAAAgAAACAAAAAAAAA=</HashCode>
+      <FileName>definition\environment.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="map1" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Zelda.sensor">
+    <Position X="8.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>definition\sensor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zelda.ground">
+    <Position X="8.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAEAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ground.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
